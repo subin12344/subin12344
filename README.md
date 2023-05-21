@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subin12344
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning php
+- 🌱 Laravel Developer
 - 💞️ I’m looking to collaborate on 
 - 📫 contact me by ph:9080693943
 
